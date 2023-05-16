@@ -1,5 +1,5 @@
 
-//function CalcularPesoPotencia8 (peso, potencia){}
+//function CalcularPeso/Potencia
 
 alert ("BIENVENIDO!!!, calcule el peso-potencia de su vehiculo (cuanto menor resultado mejor peso-potencia)");
 
@@ -13,7 +13,7 @@ console.log("pesopotencia" + pesopotencia);
 
 alert ("Tu Peso-Potencia es de:" + pesopotencia );
 
-// function calcular potenciacilindrada
+// function calcular potencia/cilindrada
 
 alert ("calcule su potencia-cilindrada (cunto mayor sea el resultado indicado, mejor rendimiento en altas RPM")
 
