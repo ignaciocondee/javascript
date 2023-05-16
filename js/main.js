@@ -13,7 +13,7 @@ console.log("pesopotencia" + pesopotencia);
 
 alert ("Tu Peso-Potencia es de:" + pesopotencia );
 
-// function calcular pesocilindrada
+// function calcular potenciacilindrada
 
 alert ("calcule su potencia-cilindrada (cunto mayor sea el resultado indicado, mejor rendimiento en altas RPM")
 
